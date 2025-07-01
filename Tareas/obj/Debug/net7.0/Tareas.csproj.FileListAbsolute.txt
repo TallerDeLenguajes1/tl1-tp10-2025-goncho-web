@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\Tp-10\Tareas\bin\Debug\net7.0\Tareas.exe
+C:\Users\Alumno\Desktop\Tp-10\Tareas\bin\Debug\net7.0\Tareas.deps.json
+C:\Users\Alumno\Desktop\Tp-10\Tareas\bin\Debug\net7.0\Tareas.runtimeconfig.json
+C:\Users\Alumno\Desktop\Tp-10\Tareas\bin\Debug\net7.0\Tareas.dll
+C:\Users\Alumno\Desktop\Tp-10\Tareas\bin\Debug\net7.0\Tareas.pdb
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\Tareas.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\Tareas.dll
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\refint\Tareas.dll
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\Tareas.pdb
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\Tareas.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Tp-10\Tareas\obj\Debug\net7.0\ref\Tareas.dll
